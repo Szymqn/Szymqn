@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my skills 
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: The heads on Easter Island have bodies.
 
 <!--
 **Szymqn/Szymqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
