@@ -14,7 +14,7 @@ class Student:
         print("I'm currently learning 🐍")
         
     def fun(self):
-        print("Fun fact: the heads on Easter Island have bodies")
+        print("Fun fact: the heads on Easter Island have bodies 🗿")
         
 me = Student()
 me.info()
