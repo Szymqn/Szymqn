@@ -8,7 +8,7 @@ class Student:
 
     def __init__(self):
         self.name = "Szymon"
-        self.role = "Student 👨‍🎓🍺"
+        self.role = "Student 👨‍🎓"
     
     def info(self):
         print("I'm currently learning 🐍")
