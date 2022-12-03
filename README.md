@@ -5,7 +5,6 @@
 # -*- coding: utf-8 -*-
 
 class Student:
-
     def __init__(self):
         self.name = "Szymon"
         self.role = "Student 👨‍🎓"
