@@ -4,7 +4,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Student:
+class Person:
     def __init__(self):
         self.name = "Szymon"
         self.role = "Student 👨‍🎓"
@@ -15,7 +15,7 @@ class Student:
     def fun(self):
         print("Fun fact: the heads on Easter Island have bodies 🗿")
         
-me = Student()
+me = Person()
 me.info()
 me.fun()
 ```
